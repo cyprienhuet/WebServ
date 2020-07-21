@@ -1,0 +1,62 @@
+http://localhost:8000/
+http://localhost:8000/youpi.bla
+http://localhost:8000/youpi.bad_extension
+http://localhost:8000/404040404
+http://localhost:8000/salut.bla
+http://localhost:8000/Yeah/not_happy.bad_extension
+http://localhost:8000/nop/other.pouic
+http://localhost:8000/nop/youpi.bad_extension
+http://localhost:8000/directory/youpi.bla
+http://localhost:8000/directory/je_dont_existe.bla
+
+http://localhost:8000/ POST
+http://localhost:8000/youpi.bla POST
+http://localhost:8000/youpi.bad_extension POST
+http://localhost:8000/404040404 POST
+http://localhost:8000/salut.bla POST
+http://localhost:8000/Yeah/not_happy.bad_extension POST
+http://localhost:8000/nop/other.pouic POST
+http://localhost:8000/nop/youpi.bad_extension POST
+http://localhost:8000/directory/youpi.bla POST
+http://localhost:8000/directory/je_dont_existe.bla POST
+
+http://localhost:8000/ POST jesuisdanslecorps
+http://localhost:8000/youpi.bla POST jesuisdanslecorps
+http://localhost:8000/youpi.bad_extension POST jesuisdanslecorps
+http://localhost:8000/404040404 POST jesuisdanslecorps
+http://localhost:8000/salut.bla POST jesuisdanslecorps
+http://localhost:8000/Yeah/not_happy.bad_extension POST jesuisdanslecorps
+http://localhost:8000/nop/other.pouic POST jesuisdanslecorps
+http://localhost:8000/nop/youpi.bad_extension POST jesuisdanslecorps
+http://localhost:8000/directory/youpi.bla POST jesuisdanslecorps
+http://localhost:8000/directory/je_dont_existe.bla POST jesuisdanslecorps
+
+http://localhost:8000/ PUT
+http://localhost:8000/youpi.bla PUT
+http://localhost:8000/youpi.bad_extension PUT
+http://localhost:8000/404040404 PUT
+http://localhost:8000/salut.bla PUT
+http://localhost:8000/Yeah/not_happy.bad_extension PUT
+http://localhost:8000/nop/other.pouic PUT
+http://localhost:8000/nop/youpi.bad_extension PUT
+http://localhost:8000/directory/youpi.bla PUT
+http://localhost:8000/directory/je_dont_existe.bla PUT
+http://localhost:8000/put_test/coucou PUT
+http://localhost:8000/put_test/comment PUT
+http://localhost:8000/put_test/ca PUT
+http://localhost:8000/put_test/va PUT
+
+http://localhost:8000/ PUT jesuisdanslecorps
+http://localhost:8000/youpi.bla PUT jesuisdanslecorps
+http://localhost:8000/youpi.bad_extension PUT jesuisdanslecorps
+http://localhost:8000/404040404 PUT jesuisdanslecorps
+http://localhost:8000/salut.bla PUT jesuisdanslecorps
+http://localhost:8000/Yeah/not_happy.bad_extension PUT jesuisdanslecorps
+http://localhost:8000/nop/other.pouic PUT jesuisdanslecorps
+http://localhost:8000/nop/youpi.bad_extension PUT jesuisdanslecorps
+http://localhost:8000/directory/youpi.bla PUT jesuisdanslecorps
+http://localhost:8000/directory/je_dont_existe.bla PUT jesuisdanslecorps
+http://localhost:8000/put_test/coucou PUT jesuisdanslecorps
+http://localhost:8000/put_test/comment PUT jesuisdanslecorps
+http://localhost:8000/put_test/ca PUT jesuisdanslecorps
+http://localhost:8000/put_test/va PUT jesuisdanslecorps

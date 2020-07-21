@@ -1,0 +1,16 @@
+ideas*
+output*
+.vscode
+*.o
+server
+cert.pem
+key.pem
+*.tmp
+.DS_Store
+*.dSYM
+callgrind*
+out
+objs
+coverage.info
+tmp/*
+tests/sender
