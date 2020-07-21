@@ -22,4 +22,3 @@ $ make
 ### Usage
 
 Edit a conf file (similar syntax as nginx - see conf folder for examples), then launch server: `./server file.conf`
-```
